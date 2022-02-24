@@ -21,13 +21,11 @@
 
 <h3 align="left">Latest Medium Story</h3>
 <!-- BLOG-POST-LIST:START -->
-
+- [[1/4] Let’s Create a Spring Boot App With MySQL, Docker, Docker Compose](https://ilkerguldali.medium.com/1-4-lets-create-a-spring-boot-app-with-mysql-docker-docker-compose-8acaee3a2c4d?source=rss-f17538212d66------2)
 - [Golang, Gin ve MongoDB ile RESTful API Oluşturma](https://medium.com/multinetinventiv/golang-gin-ve-mongodb-ile-restful-api-olu%C5%9Fturma-1668889f8f32?source=rss-f17538212d66------2)
 - [MongoDB Üzerinde Toplu Insert-Upsert-Merge-Delete Operasyonları](https://medium.com/multinetinventiv/mongodb-%C3%BCzerinde-toplu-insert-upsert-merge-delete-operasyonlar%C4%B1-4c16c2a0a517?source=rss-f17538212d66------2)
-- [R ile Örnek Üzerinden İstatiksel Modelleme](https://medium.com/@ilker.guldali/r-ile-%C3%B6rnek-%C3%BCzerinden-i%CC%87statiksel-modelleme-fe5596037?source=rss-f17538212d66------2)
-- [Unity & Vuforia ile Augmented Reality(AR) Uygulaması Geliştirmek — 1](https://medium.com/@ilker.guldali/unity-vuforia-ile-augmented-reality-ar-uygulamas%C4%B1-geli%C5%9Ftirmek-1-3ee1ff785d74?source=rss-f17538212d66------2)
-
-
+- [R ile Örnek Üzerinden İstatiksel Modelleme](https://ilkerguldali.medium.com/r-ile-%C3%B6rnek-%C3%BCzerinden-i%CC%87statiksel-modelleme-fe5596037?source=rss-f17538212d66------2)
+- [Unity &amp; Vuforia ile Augmented Reality&lpar;AR&rpar; Uygulaması Geliştirmek — 1](https://ilkerguldali.medium.com/unity-vuforia-ile-augmented-reality-ar-uygulamas%C4%B1-geli%C5%9Ftirmek-1-3ee1ff785d74?source=rss-f17538212d66------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
