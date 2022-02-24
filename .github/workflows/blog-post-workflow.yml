@@ -1,5 +1,6 @@
 name: Latest medium post workflow
 on:
+  workflow_dispatch: 
   schedule:
     # Runs every hour
     - cron: "0 0 1 * *"
